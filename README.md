@@ -1,4 +1,4 @@
-ummary:
+Summary:
 index.html:
 
 Includes a script tag to link an external JavaScript file named script.js.
