@@ -3,6 +3,8 @@ index.html:
 
 Includes a script tag to link an external JavaScript file named script.js.
 Adds buttons for user interaction and a canvas element for rendering the Chart.js chart.
+
+
 script.js:
 
 Declares variables of different data types.
